@@ -11,12 +11,14 @@ This guide breaks down how HRIS, HCM, ATS, payroll, benefits, and workforce-anal
 3. Supporting discovery layers — Software catalogs (SaaSHub, FinancesOnline, Serchen, AlternativeTo), launch platforms (Product Hunt, BetaList, Crunchbase), and broad business directories. Useful as secondary visibility, not as core buyer-facing surfaces.
 
 **Matching Platforms to Buyer Stage**
-|Stage| Best-Fit Platforms|
-|------|---------|
-|Early discovery| SHRM Vendor Directory, HRMSWorld, Capterra, SaaSHub|
-|Shortlist building| G2, Capterra, GetApp, Software Advice, TrustRadius|
-|Validation| G2, TrustRadius, SHRM Vendor Directory, HRMSWorld|
-|Emerging-tool discovery| Product Hunt, BetaList, Crunchbase, SaaSHub|
+
+Early discovery is where buyers are still trying to understand the category rather than compare specific vendors. At this stage, the strongest surfaces are the SHRM Vendor Directory, HRMSWorld, Capterra, and SaaSHub — they help buyers enter the category and build context around the type of product they need.
+
+Shortlist building is the highest-value stage, where buyers actively compare features, integrations, and pricing posture. G2, Capterra, GetApp, Software Advice, and TrustRadius carry the most weight here, since they support structured comparison and filtering.
+
+Validation comes next, when buyers are pressure-testing whether a vendor is credible enough to move forward with. G2, TrustRadius, SHRM Vendor Directory, and HRMSWorld matter most at this point, since consistent positioning and category precision reinforce trust.
+
+Emerging-tool discovery matters mainly for newer HR startups trying to build early awareness. Product Hunt, BetaList, Crunchbase, and SaaSHub can help here, though they should never replace major review-platform coverage.
 
 A common mistake vendors make is treating every directory as equal weight. A profile on G2 or Capterra does a fundamentally different job than a listing on a generic broad business directory — one drives evaluation, the other just adds a citation.
 
