@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> - Inside a High-Intent Agency Comparison Listing</title>
     <meta
         name="description"
         content="Why a well-built listing on a high-intent comparison marketplace can outperform dozens of generic directory links."
