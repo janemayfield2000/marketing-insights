@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Why Niche HR Directories Still Matter for Software Growth</title>
 </head>
 <body>
 
