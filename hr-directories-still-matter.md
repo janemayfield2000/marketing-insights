@@ -1,6 +1,3 @@
-Вот HTML-версия текста:
-
-html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
