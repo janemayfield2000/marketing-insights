@@ -1,4 +1,3 @@
-html
 <h1>The Bootstrapped Founder's Case for Outsourcing Directory Submissions</h1>
 
 <img src="https://jpcdn.it/img/small/759ae5d2867a50643baeca3d973a348e.png" alt="Directory submission">
