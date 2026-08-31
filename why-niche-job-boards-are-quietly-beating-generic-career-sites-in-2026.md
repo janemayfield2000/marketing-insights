@@ -3,8 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why Niche Job Boards Are Quietly Beating Generic Career Sites in 2026</title>
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+   
   </head>
   <body>
 
