@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Why Most Startup Websites Never Leave "Draft Mode"</title>
-<style>
+
   body {
     background-color: #000000;
     color: #ffffff;
