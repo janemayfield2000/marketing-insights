@@ -3,7 +3,44 @@
 <head>
 <meta charset="UTF-8">
 
-  
+  body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  h1 {
+    color: #ffffff;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+  }
+  p {
+    margin-bottom: 18px;
+    font-size: 16px;
+  }
+  a {
+    color: #4da6ff;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: #80c1ff;
+  }
+  .hashtags {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #cccccc;
+  }
+</style>
+</head>
 <body>
 
 <h1>Why Most Startup Websites Never Leave "Draft Mode"</h1>
