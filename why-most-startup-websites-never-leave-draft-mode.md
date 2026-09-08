@@ -43,6 +43,7 @@
 </head>
 <body>
 
+
 <h1>Why Most Startup Websites Never Leave "Draft Mode"</h1>
 
 <img src="https://jpcdn.it/img/small/a30c5dc7c1a9a4008273eadd5e9dc667.png" alt="Startup website stuck in draft mode">
