@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Your 30-Day Plan for Adopting AI in Website Production</title>
 <style>
   body {
     margin: 0;
