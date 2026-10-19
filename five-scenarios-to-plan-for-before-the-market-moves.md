@@ -1,12 +1,12 @@
-<div style="background-color:#000000;color:#e0e0e0;font-family:Arial,sans-serif;line-height:1.7;padding:16px;">
+<div style="background-color:#000000;color:#e0e0e0;font-family:Arial,sans-serif;line-height:1.7;">
 
 <h1>Five Scenarios to Plan for Before the Market Moves</h1>
 
-<img src="https://jpcdn.it/img/small/ec55d56532619a80a80b90ff1353744b.jpg" alt="Five Scenarios to Plan for Before the Market Moves" style="max-width:100%;height:auto;">
+<p><img src="https://jpcdn.it/img/small/ec55d56532619a80a80b90ff1353744b.jpg" alt="Five Scenarios to Plan for Before the Market Moves"></p>
 
 <p>Most strategy failures do not happen because someone lacked intelligence. They happen because someone had to improvise under pressure. When a token drops sharply or a security rumor starts spreading, emotions run high and decisions get worse. The cure is simple but rarely practiced: decide what you will do before it happens, while you can still think clearly.</p>
 
-<p>The first scenario is a sharp token drawdown. Define thresholds for reducing exposure if values fall quickly, and decide whether you would hold, rebalance, or de-risk based on liquidity and your level of conviction. The second is reward compression. Yield can shrink fast when participation grows or incentives change, so set a minimum acceptable net return and decide what happens if you fall below it. These ideas come from a practical <a href="https://unicornplatform.com/blog/earn-passive-income-with-smart-contracts-the-complete-guide/" style="color:#8ab4f8;">guide to smart contract income</a> built around risk-aware preparation.</p>
+<p>The first scenario is a sharp token drawdown. Define thresholds for reducing exposure if values fall quickly, and decide whether you would hold, rebalance, or de-risk based on liquidity and your level of conviction. The second is reward compression. Yield can shrink fast when participation grows or incentives change, so set a minimum acceptable net return and decide what happens if you fall below it. These ideas come from a practical <a href="https://unicornplatform.com/blog/earn-passive-income-with-smart-contracts-the-complete-guide/">guide to smart contract income</a> built around risk-aware preparation.</p>
 
 <p>The third scenario is news of a smart contract incident. Prepare a simple response tree: confirm how reliable the source is, check whether you are directly exposed, evaluate whether withdrawal is feasible, and carry out predefined risk reduction if needed. This is especially valuable when social media narratives turn noisy and contradictory. A clear sequence keeps you from reacting to every headline.</p>
 
