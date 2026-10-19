@@ -6,23 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Responsible AI in Website Production: Practical Rules That Protect Your Brand</title>
   <meta name="description" content="Practical rules for responsible AI use in website production, protecting brand trust, content accuracy, and compliance.">
-  <style>
-    body {
-      background: #0d0d0d;
-      color: #e0e0e0;
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    h1 { color: #ffffff; }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    a { color: #8ab4f8; }
-  </style>
 </head>
 <body>
 
@@ -35,7 +18,7 @@
 
   <p>Conversations about responsible AI often sound abstract, full of big principles and little guidance. For a team that simply wants to build better web pages, responsibility is much more practical. It means deciding in advance what the AI is allowed to do, what it is not allowed to do, and who checks the result before visitors see it. Written boundaries are not a burden; they are what allow a team to move quickly without worrying about damaging its reputation.</p>
 
-  <p>A good starting point is a short list of policy rules. Don't publish invented case studies or metrics. Don't make guarantees you cannot verify. Don't include sensitive claims without manual review. And never publish anything without human approval. As explained in this guide to AI-driven website design, written policies improve consistency, especially when several contributors use AI tools at the same time.</p>
+  <p>A good starting point is a short list of policy rules. Don't publish invented case studies or metrics. Don't make guarantees you cannot verify. Don't include sensitive claims without manual review. And never publish anything without human approval. As explained in this <a href="https://unicornplatform.com/blog/unicorn-ai-the-ai-that-creates-custom-website-designs/">guide to AI-driven website design</a>, written policies improve consistency, especially when several contributors use AI tools at the same time.</p>
 
   <p>The reason these rules matter is that AI is very good at producing text that sounds confident. A generated sentence about results, savings, or customer success may read beautifully while having no factual basis at all. Visitors cannot tell the difference at first, but they eventually notice when promises don't match reality. Trust damage is much harder to recover from than the small amount of time you save by skipping a review.</p>
 
