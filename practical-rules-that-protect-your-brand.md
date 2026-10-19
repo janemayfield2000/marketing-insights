@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsible AI in Website Production: Practical Rules That Protect Your Brand</title>
   <meta name="description" content="Practical rules for responsible AI use in website production, protecting brand trust, content accuracy, and compliance.">
 </head>
 <body>
