@@ -1,5 +1,6 @@
 
-<div style="background-color:#000000; color:#e0e0e0; font-family:Arial,sans-serif; line-height:1.7; max-width:800px; margin:0 auto; padding:20px;">
+
+<div style="background:#000000 !important; color:#e0e0e0; font-family:Arial,sans-serif; line-height:1.7; padding:20px;">
 
 <h1 style="color:#ffffff;">Five Scenarios to Plan for Before the Market Moves</h1>
 
