@@ -1,31 +1,13 @@
 
-<style>
-  body {
-    background-color: #000000;
-    color: #e0e0e0;
-    font-family: Arial, sans-serif;
-    line-height: 1.7;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
-  }
-  h1 { color: #ffffff; }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-  a { color: #8ab4f8; }
-</style>
+<div style="background-color:#000000; color:#e0e0e0; font-family:Arial,sans-serif; line-height:1.7; max-width:800px; margin:0 auto; padding:20px;">
 
-<h1>Responsible AI in Website Production: Practical Rules That Protect Your Brand</h1>
+<h1 style="color:#ffffff;">Responsible AI in Website Production: Practical Rules That Protect Your Brand</h1>
 
-<p>
-  <img src="https://jpcdn.it/img/small/2d2e1a51f5ae23e63f20d8b2af7c6626.jpg" alt="Responsible AI in website production">
-</p>
+<p><img src="https://jpcdn.it/img/small/2d2e1a51f5ae23e63f20d8b2af7c6626.jpg" alt="Responsible AI in website production" style="max-width:100%; height:auto;"></p>
 
 <p>Conversations about responsible AI often sound abstract, full of big principles and little guidance. For a team that simply wants to build better web pages, responsibility is much more practical. It means deciding in advance what the AI is allowed to do, what it is not allowed to do, and who checks the result before visitors see it. Written boundaries are not a burden; they are what allow a team to move quickly without worrying about damaging its reputation.</p>
 
-<p>A good starting point is a short list of policy rules. Don't publish invented case studies or metrics. Don't make guarantees you cannot verify. Don't include sensitive claims without manual review. And never publish anything without human approval. As explained in this <a href="https://unicornplatform.com/blog/unicorn-ai-the-ai-that-creates-custom-website-designs/">guide to AI-driven website design</a>, written policies improve consistency, especially when several contributors use AI tools at the same time.</p>
+<p>A good starting point is a short list of policy rules. Don't publish invented case studies or metrics. Don't make guarantees you cannot verify. Don't include sensitive claims without manual review. And never publish anything without human approval. As explained in this <a href="https://unicornplatform.com/blog/unicorn-ai-the-ai-that-creates-custom-website-designs/" style="color:#8ab4f8;">guide to AI-driven website design</a>, written policies improve consistency, especially when several contributors use AI tools at the same time.</p>
 
 <p>The reason these rules matter is that AI is very good at producing text that sounds confident. A generated sentence about results, savings, or customer success may read beautifully while having no factual basis at all. Visitors cannot tell the difference at first, but they eventually notice when promises don't match reality. Trust damage is much harder to recover from than the small amount of time you save by skipping a review.</p>
 
@@ -36,3 +18,5 @@
 <p>Responsible use is ultimately operational, not theoretical. A few clear rules, one accountable owner, and a habit of recording how pages were produced are enough for most teams. They protect your audience, your brand, and your future flexibility, and they make it easier to expand AI use confidently as your team grows.</p>
 
 <p>#ResponsibleAI #AIEthics #WebsiteContent #BrandTrust #ContentGovernance #DigitalStrategy #WebDesign</p>
+
+</div>
