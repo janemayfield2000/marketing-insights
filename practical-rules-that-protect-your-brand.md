@@ -7,55 +7,8 @@
   <meta name="description" content="Discover practical rules for responsible AI use in website production, including human review, fact-checking, content governance, and brand protection.">
   <meta name="robots" content="index, follow">
   <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-  <style>
-    body {
-      background-color: #0d0d0d;
-      color: #e6e6e6;
-      font-family: Arial, Helvetica, sans-serif;
-      line-height: 1.7;
-      margin: 0;
-      padding: 20px;
-    }
-    article {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    h1, h2 {
-      color: #ffffff;
-      line-height: 1.3;
-    }
-    h1 {
-      font-size: 32px;
-      margin-bottom: 16px;
-    }
-    h2 {
-      font-size: 24px;
-      margin-top: 32px;
-      margin-bottom: 14px;
-    }
-    p {
-      margin-bottom: 18px;
-      font-size: 16px;
-    }
-    a {
-      color: #4da6ff;
-      text-decoration: underline;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 20px auto;
-    }
-    .tags {
-      margin-top: 28px;
-      color: #bdbdbd;
-    }
-  </style>
 </head>
 <body>
-  <article>
-    <h1>Responsible AI in Website Production: Practical Rules That Protect Your Brand</h1>
 
     <img src="https://jpcdn.it/img/small/2d2e1a51f5ae23e63f20d8b2af7c6626.jpg" alt="Responsible AI in Website Production: Practical Rules That Protect Your Brand">
 
