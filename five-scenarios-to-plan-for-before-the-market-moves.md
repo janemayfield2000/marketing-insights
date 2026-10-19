@@ -1,9 +1,9 @@
 
-<div style="background-color:#000000; color:#e0e0e0; font-family:Arial,sans-serif; line-height:1.7;">
+<div style="background-color:#000000; color:#e0e0e0; font-family:Arial,sans-serif; line-height:1.7; max-width:800px; margin:0 auto; padding:20px;">
 
 <h1 style="color:#ffffff;">Five Scenarios to Plan for Before the Market Moves</h1>
 
-<p><img src="https://jpcdn.it/img/small/ec55d56532619a80a80b90ff1353744b.jpg" alt="Five Scenarios to Plan for Before the Market Moves"></p>
+<p><img src="https://jpcdn.it/img/small/ec55d56532619a80a80b90ff1353744b.jpg" alt="Five Scenarios to Plan for Before the Market Moves" style="max-width:100%; height:auto;"></p>
 
 <p>Most strategy failures do not happen because someone lacked intelligence. They happen because someone had to improvise under pressure. When a token drops sharply or a security rumor starts spreading, emotions run high and decisions get worse. The cure is simple but rarely practiced: decide what you will do before it happens, while you can still think clearly.</p>
 
